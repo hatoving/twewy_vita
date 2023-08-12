@@ -5,6 +5,7 @@ Just a bit of warning; the complete file size of the game is around ``1.15 GB``.
 
 # Instructions
 First, you might want to install the .VPK using VitaShell. Don't try to launch the game, because it will crash without the neccesary files.
+
 Don't also forget to make a folder called ``TWEWY`` in ``ux0:data/``. It is neccesary in order to have your save data saved.
 
 ## Nintendo DS
