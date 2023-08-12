@@ -3,6 +3,10 @@ This repo contains patches that you can use in order to get fully working files 
 
 Just a bit of warning; the complete file size of the game is around ``1.15 GB``. The patch files are around ``700 MB``. Make sure to save up space.
 
+# Controls
+Use the touchscreen on your PS Vita. That's it.
+You can press X to skip cutscenes.
+
 # Instructions
 First, you might want to install the .VPK using VitaShell. Don't try to launch the game, because it will crash without the neccesary files.
 
