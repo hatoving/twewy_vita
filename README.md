@@ -19,7 +19,7 @@ Note: The android version of the game is delisted. I used version 1.04 to create
 - Go to the Release page and download ``patch_mobile.zip``.
 - Extract it somewhere.
 - Get the contents of your .OBB file (you can generally find that in ``Android/obb/com.square_enix.android_googleplay.subarashikikonosekai_solo``) and put them in the root of the directory you crated for the patch files.
-- Launch ``patch_game_mobile.bat`` and type in the path to a file called ``sharedassets1.assets`` (you can find that in ``OBB File -> ... -> sharedassets1.assets).
+- Launch ``patch_game_mobile.bat`` and type in the path to a file called ``sharedassets1.assets`` (you can find that in ``OBB File -> ... -> sharedassets1.assets``).
 - Let it finish and there should be a .ZIP file called ``data (drop contents at game dir).zip``.
 - Open up VitaShell, connect your Vita to your PC and copy over the contents of the .ZIP file over to ``ux0:app/NEKU23850``.
 - Launch the game and have fun!
